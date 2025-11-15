@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Real Madrid 24/25",
+    "precio": 25.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/ScreenShot2024-06-18at11.27.33AM_clipped_rev_1.png?v=1718724515&width=1200",
+    "categoriaId": 1,
+    "descripcion": "Camiseta local juvenil Adidas Real Madrid 24/25",
+    "stock": 50,
+    "tendencia": true
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta Arsenal 24/25",
+    "precio": 25.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/ScreenShot2024-08-01at9.33.26AM_clipped_rev_1.png?v=1722519306&width=1200",
+    "categoriaId": 1,
+    "descripcion": "Camiseta visitante del Arsenal 24/25 de Adidas",
+    "stock": 45,
+    "tendencia": false
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta Juventus 21/22",
+    "precio": 27.99,
+    "imagen": "https://soccerpost.com/cdn/shop/products/juventus_21_22_home_jersey_apparel-sw.jpg?v=1677772623&width=900",
+    "categoriaId": 1,
+    "descripcion": "Camiseta Adidas Juventus Primera Equipación 21/22",
+    "stock": 60,
+    "tendencia": false
+  },
+  {
+    "id": 4,
+    "nombre": "Pantalones deportivos de entrenamiento Nike Club",
+    "precio": 35.99,
+    "imagen": "https://soccerpost.com/cdn/shop/products/064fb2103c11bc9cf2b11ae531e537cf.png?v=1673296638&width=800",
+    "categoriaId": 2,
+    "descripcion": "Pantalón deportivo Nike Club",
+    "stock": 40,
+    "tendencia": false
+  },
+  {
+    "id": 5,
+    "nombre": "Pantalón Paris Saint-Germain 24/25",
+    "precio": 35.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/AURORA_FN8795-411_PHSFH001-2000_clipped_rev_1_f8fbff93-ebd3-4722-8290-ba5207cafd44.png?v=1716405552&width=1200",
+    "categoriaId": 1,
+    "descripcion": "Nike Camiseta Paris Saint-Germain 24/25 Juvenil Primera Equipación",
+    "stock": 35,
+    "tendencia": true
+  },
+  {
+    "id": 6,
+    "nombre": "Pantalón Nike 24/25",
+    "precio": 22.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/BV6857-657-VPSRH001.png?v=1740754583&width=1200",
+    "categoriaId": 2,
+    "descripcion": "Pantalón corto Nike Dri-Fit Park III",
+    "stock": 55,
+    "tendencia": false
+  },
+  {
+    "id": 7,
+    "nombre": "Pantalón Barcelona 24/25",
+    "precio": 79.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/JN5469_2_APPAREL_Photography_FrontView_transparent.png?v=1740757153&width=1200",
+    "categoriaId": 2,
+    "descripcion": "Pantalón corto Nike Dri-Fit Park III",
+    "stock": 30,
+    "tendencia": false
+  },
+  {
+    "id": 8,
+    "nombre": "Zapatillas Adidas Samba Indoor",
+    "precio": 69.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/IH6000_b2b012_plp.png_clipped_rev_1.png?v=1717684686&width=1200",
+    "categoriaId": 3,
+    "descripcion": "Zapatillas Adidas Samba Indoor",
+    "stock": 25,
+    "tendencia": false
+  },
+  {
+    "id": 9,
+    "nombre": "Nike Mercurial Vapor 16 Elite Deja Vu Firm Ground Cleats",
+    "precio": 59.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/AURORA_IO1555-800_PHSRH000-2000_clipped_rev_1.png?v=1762988496&width=1200",
+    "categoriaId": 3,
+    "descripcion": "Nike Mercurial Vapor 16 Elite Deja Vu Firm Ground Cleats",
+    "stock": 40,
+    "tendencia": false
+  },
+  {
+    "id": 10,
+    "nombre": "Adidas Liverpool 25/26 Home Jersey",
+    "precio": 15.99,
+    "imagen": "https://soccerpost.com/cdn/shop/files/Screenshot2025-08-13at2.50.56PM_clipped_rev_1.png?v=1755111133&width=1200",
+    "categoriaId": 1,
+    "descripcion": "Adidas Liverpool 25/26 Home Jersey",
+    "stock": 70,
+    "tendencia": true
+  },
+  {
+    "id": 11,
+    "nombre": "Botella de agua Nike Big Mouth 2.0 (32 oz)",
+    "precio": 45.99,
+    "imagen": "https://soccerpost.com/cdn/shop/products/da7a3bfb92933536740e5ce4723468a0-sw.png?v=1678132015&width=1000",
+    "categoriaId": 4,
+    "descripcion": "Botella de agua Nike Big Mouth 2.0 (32 oz)",
+    "stock": 20,
+    "tendencia": false
+  },
+  {
+    "id": 12,
+    "nombre": "Espinilleras Adidas Juvenil",
+    "precio": 12.99,
+    "imagen": "https://soccerpost.com/cdn/shop/products/adidas_youth_sock_guards_equipment.jpg?v=1666816116&width=500",
+    "categoriaId": 4,
+    "descripcion": "Protectores de calcetines juveniles Adidas",
+    "stock": 100,
+    "tendencia": false
+  }
+]
+

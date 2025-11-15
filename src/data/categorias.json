@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camisetas",
+    "icono": "shirt-outline",
+    "descripcion": "Camisetas deportivas de alta calidad"
+  },
+  {
+    "id": 2,
+    "nombre": "Pantalones cortos",
+    "icono": "body-outline",
+    "descripcion": "Pantalones deportivos y casuales"
+  },
+  {
+    "id": 3,
+    "nombre": "Zapatillas",
+    "icono": "footsteps-outline",
+    "descripcion": "Calzado deportivo y casual"
+  },
+  {
+    "id": 4,
+    "nombre": "Accesorios",
+    "icono": "star-outline",
+    "descripcion": "Accesorios deportivos y complementos"
+  }
+]
+

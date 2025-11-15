@@ -1,0 +1,19 @@
+.search-bar-container {
+    width: 100%;
+    margin: 20px 0;
+    padding: 0 10px;
+}
+
+.search-bar {
+    --background: var(--ion-color-light);
+    --border-radius: 12px;
+    --box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 768px) {
+    .search-bar-container {
+        max-width: 600px;
+        margin: 20px auto;
+    }
+}
+

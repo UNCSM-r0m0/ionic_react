@@ -1,0 +1,34 @@
+.products-container {
+    padding: 10px 15px;
+    max-width: 100%;
+}
+
+.products-container ion-grid {
+    padding: 0;
+}
+
+.products-container ion-row {
+    margin: 0;
+}
+
+.products-container ion-col {
+    padding: 8px;
+}
+
+@media (max-width: 640px) {
+    .products-container {
+        padding: 10px;
+    }
+
+    .products-container ion-col {
+        padding: 6px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .products-container {
+        padding: 20px;
+        max-width: 1400px;
+        margin: 0 auto;
+    }
+}

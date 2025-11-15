@@ -1,0 +1,75 @@
+.product-carousel {
+    width: 100%;
+    margin: 20px 0;
+    position: relative;
+}
+
+.carousel-container {
+    display: flex;
+    gap: 16px;
+    padding: 10px 20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--ion-color-primary) transparent;
+    scroll-behavior: smooth;
+}
+
+.carousel-container::-webkit-scrollbar {
+    height: 6px;
+}
+
+.carousel-container::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.carousel-container::-webkit-scrollbar-thumb {
+    background-color: var(--ion-color-primary);
+    border-radius: 3px;
+}
+
+.carousel-container::-webkit-scrollbar-thumb:hover {
+    background-color: var(--ion-color-primary-shade);
+}
+
+.carousel-item {
+    flex: 0 0 calc(90% - 8px);
+    min-width: calc(90% - 8px);
+    max-width: calc(90% - 8px);
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+}
+
+@media (min-width: 480px) {
+    .carousel-item {
+        flex: 0 0 calc(70% - 8px);
+        min-width: calc(70% - 8px);
+        max-width: calc(70% - 8px);
+    }
+}
+
+@media (min-width: 768px) {
+    .carousel-item {
+        flex: 0 0 calc(45% - 8px);
+        min-width: calc(45% - 8px);
+        max-width: calc(45% - 8px);
+    }
+}
+
+@media (min-width: 1024px) {
+    .carousel-item {
+        flex: 0 0 calc(32% - 8px);
+        min-width: calc(32% - 8px);
+        max-width: calc(32% - 8px);
+    }
+}
+
+@media (min-width: 1280px) {
+    .carousel-item {
+        flex: 0 0 calc(25% - 8px);
+        min-width: calc(25% - 8px);
+        max-width: calc(25% - 8px);
+    }
+}
